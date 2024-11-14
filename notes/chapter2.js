@@ -93,3 +93,8 @@ switch (day) {
     default:
         console.log('Today is not a day')
 }
+
+module.exports = {
+    addStuff,
+    example_array
+}
